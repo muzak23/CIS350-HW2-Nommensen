@@ -2,7 +2,7 @@
 
 * I enjoy working with servers and coding projects.
 * I have been in band since 5th grade, and currently play the french horn in GVSU's Concert Band and the mellophone in the Laker Marching Band.
-* I like playing games like Minecraft, Binding of Isaac, Valorant (competitive FPS), and FTL: Faster Than Light (rogue-like).
+* I like playing games like Minecraft, Binding of Isaac: Rebirth, Valorant (competitive FPS), and FTL: Faster Than Light (rogue-like).
 
 ## Technical Background
 I have experience coding in Java and Python. I also have server administration experience.
